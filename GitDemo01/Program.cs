@@ -11,6 +11,7 @@ namespace GitDemo01
         static void Main(string[] args)
         {
             Console.WriteLine("111");
+            Console.WriteLine("121");
         }
     }
 }
